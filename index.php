@@ -1,7 +1,7 @@
 <?php
 
 // Base URL of the website, without trailing slash.
-$base_url = 'https://notes.orga.cat';
+$base_url = 'https://chiaseviptest.blogspot.com/';
 
 // Disable caching.
 header('Cache-Control: no-cache, no-store, must-revalidate');
